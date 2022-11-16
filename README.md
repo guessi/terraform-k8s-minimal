@@ -5,7 +5,7 @@ Minimal setup for creating Kubernetes Resources
 ### Prerequisites
 
 - Proper configured `~/.kube/config`
-- Terraform ~> 1.2
+- Terraform ~> 1.3
 
 ### Setup Guide
 
