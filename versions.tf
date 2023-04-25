@@ -3,7 +3,7 @@ terraform {
 
   required_providers {
     kubernetes = {
-      version = "~> 2.15"
+      version = "~> 2.20"
     }
   }
 }
