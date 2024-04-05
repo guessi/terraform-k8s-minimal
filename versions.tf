@@ -1,9 +1,9 @@
 terraform {
-  required_version = "~> 1.6"
+  required_version = "~> 1.7"
 
   required_providers {
     kubernetes = {
-      version = "~> 2.25"
+      version = "~> 2.27"
     }
   }
 }
